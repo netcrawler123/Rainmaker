@@ -1,5 +1,7 @@
 # Rainmaker
-Esp Rainmaker example code and reference materials.
+## Esp Rainmaker example code and reference materials.
+Those who wish to learn more about Esp Rainmaker i have attached the reference youtube vedios and reference materials that i used.
+I have attached sample code which you can use to kickstart your tinkering.
 
 ## youtube links
 
